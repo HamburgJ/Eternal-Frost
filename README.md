@@ -3,6 +3,7 @@
 ![Image_5](https://i.ibb.co/3CwptJJ/cover-final.png)
 
 Created in GameMaker for the GMTK Game Jam 2020
+https://hamburgj.itch.io/eternal-frost
 
 You must journey to the peak of a mountain while finding out about a fallen world and the nature of destiny. Short and to the point. 5-10 minute playtime.
 
